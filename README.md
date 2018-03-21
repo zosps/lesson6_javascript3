@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 21 2018
 
 ### Student Name:  
-(First and Last Name)
+Zoe Patrick
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project demonstrates the building of an application that displays a photo gallery of pictures and can be navigated with arrows by the user. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. To access elements by id, tag name, class, name or selector
+2. To access element content, CSS properties, and attributes
+3. To add and remove document nodes
